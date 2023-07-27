@@ -1,0 +1,6 @@
+from collections import Counter
+string = "missicippi"
+
+output = Counter(string)
+
+print(output)
